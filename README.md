@@ -1,0 +1,1 @@
+# 2-Stok-Takip-Otomasyonu
